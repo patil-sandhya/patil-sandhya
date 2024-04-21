@@ -2,11 +2,11 @@
 <h3 align="center">I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript, HTML and CSS. I'm enthusiastic about leveraging my knowledge to build impactful products and services that cater to people's needs. My goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the company's growth.</h3>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="right-img" align="right" width="400" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-sandhya&label=Profile%20views&color=0e75b6&style=flat" alt="patil-sandhya" /> </p>
+</br>
 
 - 🌱 I’m currently learning **MERN Stack and DSA**
 - 👨‍💻 All of my projects are available at [https://patil-sandhya.github.io/](https://patil-sandhya.github.io)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patil-sandhya&label=Profile%20views&color=0e75b6&style=flat" alt="patil-sandhya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patil-sandhya&show_icons=true&locale=en" alt="patil-sandhya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-sandhya&" alt="patil-sandhya" /></p>
-![](https://komarev.com/ghpvc/?username=patil-sandhya)
