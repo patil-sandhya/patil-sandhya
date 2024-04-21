@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patil-sandhya&show_icons=true&locale=en" alt="patil-sandhya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-sandhya&" alt="patil-sandhya" /></p>
+![Visitor Count](https://profile-counter.glitch.me/patil-sandhya/count.svg)
